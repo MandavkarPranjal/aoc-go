@@ -50,4 +50,5 @@ func main() {
 	input := getInput(day)
 
 	aoc2024.Day1_1(input)
+	aoc2024.Day1_2(input)
 }
